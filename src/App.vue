@@ -2,7 +2,7 @@
   <v-app>
     <v-app-bar app color="primary" dark>
       <div class="d-flex align-center">
-        <v-icon>mdi-pool</v-icon>
+        <v-icon>piscina</v-icon>
       </div>
 
       <v-spacer></v-spacer>
